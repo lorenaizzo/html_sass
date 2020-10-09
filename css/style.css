@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: hotpink;
+}
+
+h1 {
+    color: gray;
+    font-size: 3em;
+}
